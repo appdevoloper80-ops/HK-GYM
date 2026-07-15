@@ -1,0 +1,6 @@
+{
+  "name": "HK Fitness and Unisex Gym",
+  "description": "Premium, modern, conversion-focused single-page application for HK Fitness and Unisex Gym in Tirupati, showcasing training services, state-of-the-art equipment, membership pricing, and elite fitness guidance by founder Hari Krishna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
